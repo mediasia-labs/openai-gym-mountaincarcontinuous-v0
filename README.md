@@ -27,4 +27,4 @@ Result
 	Generation 27 Best score 87.4580638971 Finished 14.7
 	Generation 28 Best score 88.1793944848 Finished 15.16
 
-When challenged is considered passed when a network reaches an average score of 90 over 100 games
+Challenge is considered solved when a network reaches an average score of 90 over 100 games
