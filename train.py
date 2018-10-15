@@ -179,7 +179,6 @@ class MountainCarContinuousSolver:
 
 			# Add best performing ever to population
 			elif i == self.populationSize - self.kidsPerGeneration and self.bestIndividual:
-				print self.bestReward
 				self.population[i] = Individual(self.networkShape, self.bestIndividual)
 			
 			# Replace less performing individuals
